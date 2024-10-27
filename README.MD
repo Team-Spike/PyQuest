@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/1b9aa1d9-dade-46d1-9133-9939c89ca97a)
 
 ## Technologies Used
-- **Unity Editor**: Version 22.3.38f1
+- **Unity Editor**: Version `22.3.38f1`
 - **Gemini API**: Used for generating Python-related MCQs and integrating AI-driven content.
 - **C#**: Primary scripting language for Unity development.
 
@@ -17,6 +17,6 @@ To run the game locally:
 1. Ensure you have [Unity 22.3.38f1](https://unity.com/releases/editor) or a compatible version installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PyQuest.git
+   git clone https://github.com/shishir3d/PyQuest.git
    ```
 3. Open the project in Unity, then select **File > Build and Run** to play.
